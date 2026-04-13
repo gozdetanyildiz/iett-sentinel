@@ -61,8 +61,8 @@ Random Forest modeli (AUC = 0.885) kullanarak araç arızalarını 30 gün önce
 
 ```bash
 # 1. Repoyu klonla
-git clone https://github.com/kullaniciadi/sentinel.git
-cd sentinel
+git clone https://github.com/gozdetanyildiz/iett-sentinel.git
+cd iett-sentinel
 
 # 2. Bağımlılıkları kur
 pip install -r requirements.txt
